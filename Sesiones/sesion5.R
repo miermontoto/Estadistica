@@ -1,5 +1,5 @@
 # Contrastes de Independencia y Correlación lineal -> Si hay relación o no entre dos variables
-> Test de independencia Chi-Cuadrado: estudia la relación genérica -> cualitativas (factores de R)
+> Test de independencia Chi-Cuadrado: estudia la relación genérica -> cualitativas
 > Test de correlación de Pearson: si hay o no relación lineal -> cuantitativas
 
 > 1. Elegir el contraste/prueba
